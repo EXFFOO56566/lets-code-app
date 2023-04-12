@@ -1,0 +1,73 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.google.firebase.crashlytics'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.alim.letscode"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 24
+        versionName "5.0.2 stable"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.core:core-ktx:1.2.0'
+
+    //My Customization
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.10.5'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.10.5'
+    implementation 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'org.mozilla:rhino:1.7.12'
+    implementation 'com.mindorks.android:prdownloader:0.6.0'
+    implementation  'com.fxn769:bubbletabbar:1.0.5'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.gms:play-services-ads:19.1.0'
+    implementation project(':nativetemplates')
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    //temp
+    implementation 'com.squareup.moshi:moshi-kotlin:1.9.2'
+    implementation 'com.facebook.stetho:stetho-js-rhino:1.4.2'
+    implementation 'com.github.Commit451:YouTubeExtractor:6.0.0'
+
+    //Google Analytic
+    implementation 'com.google.firebase:firebase-analytics:17.4.1'
+    implementation 'com.google.firebase:firebase-crashlytics:17.0.0'
+
+    /*implementation 'com.google.android.exoplayer:exoplayer-dash:2.10.5'
+    implementation 'org.mp4parser:isoparser:1.9.27'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.github.evgenyneu:js-evaluator-for-android:v5.0.0'
+    implementation 'com.github.HaarigerHarald:android-youtubeExtractor:2.1.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'*/
+
+    testImplementation 'junit:junit:4.13'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+}

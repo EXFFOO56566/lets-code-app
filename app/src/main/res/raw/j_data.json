@@ -1,0 +1,4152 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/x-J3sd7GV5VQeN2dn68ERnGhkbQ\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 92,
+  "resultsPerPage": 92
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YGFg7KsLOiNo5yipv5OwcmTH0AU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-11-22T18:41:17.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Why take this Java Course",
+    "description": "Java Programming: The reasons to take the Java Programming course by Neso Academy\nTopics discussed:\n1) The target audience for the Java Programming course.\n2) Syllabus of the Java Programming course.\n3) The course structure of the Java Programming course.\n4) Why should we learn Java?\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VHbSopMyc4M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VHbSopMyc4M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VHbSopMyc4M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VHbSopMyc4M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VHbSopMyc4M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VHbSopMyc4M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5Xbcl1HT3xmvcoOTEjRO3iIDBD0\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-11-22T18:53:00.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Programs and Programming Languages",
+    "description": "Java Programming: Programs and Programming Languages\nTopics discussed:\n1) Programs & programming languages.\n2) Machine language.\n3) Assembly language.\n4) High-level language.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ProgrammingLanguage",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-C88r0niLQQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-C88r0niLQQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-C88r0niLQQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-C88r0niLQQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-C88r0niLQQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-C88r0niLQQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/O_zRpd4NmaO2vKzHCMZAqqNbU7Q\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-11-24T14:08:21.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Introduction to Java Programming",
+    "description": "Java Programming: Introduction to Java Programming\nTopics discussed:\n1. About Java.\n2. Java Language Specification.\n3. API.\n4. Editions of Java.\n5. IDE.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mG4NLNZ37y4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mG4NLNZ37y4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mG4NLNZ37y4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mG4NLNZ37y4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mG4NLNZ37y4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mG4NLNZ37y4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TRNc_F1CenqAQPeAkvd61sRGZGQ\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-11-24T16:01:45.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Anatomy of Java Program",
+    "description": "Java Programming: The Anatomy of Java Program\nTopics discussed:\n1. Classes & Objects.\n2. Methods.\n3. Naming Conventions.\n4. Java Program Structure.\n5. Packages.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #JavaProgram",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vsxYucdzimA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vsxYucdzimA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vsxYucdzimA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vsxYucdzimA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vsxYucdzimA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vsxYucdzimA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sajYIPqXRfwUUDhmDQrNIZcAjxc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-11-25T13:11:50.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Displaying Messages",
+    "description": "Java Programming: Displaying Messages\nTopics discussed:\n1. Strings.\n2. println() & print() methods.\n3. System Class.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DisplayingMessagesInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ifirpBZLeCk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ifirpBZLeCk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ifirpBZLeCk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ifirpBZLeCk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ifirpBZLeCk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ifirpBZLeCk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U4iEdAqvMfgyJXiYYs3ntDsMvOw\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-11-25T14:13:34.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Displaying Numbers",
+    "description": "Java Programming: Displaying Numbers\nTopics discussed:\n1. Numbers.\n2. Some Arithmetic Operators.\n3. Printing some values.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DisplayingNumbersInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UFMqdnUh4nI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UFMqdnUh4nI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UFMqdnUh4nI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UFMqdnUh4nI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UFMqdnUh4nI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UFMqdnUh4nI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TwQpoTRRV1bbL9eyZOPo8j3TLg0\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-11-26T07:35:52.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Configuring our Java Development Environment",
+    "description": "Java Programming: Configuring the Java Development Environment\nTopics discussed:\n1. Install JDK 13.0.1\n2. Setting up the environment variables.\n3. Install IntelliJ IDEA 2019.2.4\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #JDE #JDK #IntelliJ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FjGMYpXS9iE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FjGMYpXS9iE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FjGMYpXS9iE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FjGMYpXS9iE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FjGMYpXS9iE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FjGMYpXS9iE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MF1Phca3k0jYSDmKIxvhEhTxgpg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2019-11-27T14:11:58.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Creating, Compiling, & Executing a Java Program",
+    "description": "Java Programming: Creating, Compiling, and Executing a Java Program\nTopics discussed:\n1. Creating a Java program using a simple text editor.\n2. Compiling the Java program using the Command Window.\n3. Running the Java program using the Command Window.\n4. What happens exactly when we compile and run our Java program.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #CreatingJavaProgram",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gHXzyAkbUhk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gHXzyAkbUhk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gHXzyAkbUhk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gHXzyAkbUhk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gHXzyAkbUhk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gHXzyAkbUhk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hG7cvutazyZHyJzy26uTKTy8k6s\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2019-11-29T13:53:59.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Our First Java Project",
+    "description": "Java Programming: Our First Java Project \nTopics discussed:\n1. Comments.\n2. Creating our first Java project in IntelliJ.\n3. Writing the Java program in IntelliJ.\n4. Running the Java program in IntelliJ.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #FirstJavaProject",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AVpLMoTnwM8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AVpLMoTnwM8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AVpLMoTnwM8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AVpLMoTnwM8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AVpLMoTnwM8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AVpLMoTnwM8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J5kJtynmGftrFDfGV4oaXQmkF0I\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2019-11-30T13:41:32.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Java Packages, Classes, and Methods",
+    "description": "Java Programming: Java Packages, Classes, and Methods \r\nTopics discussed:\n1. Creating a new class.\n2. Creating a new method.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Packages #Classes #Methods",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mgixJYEZ1Fk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mgixJYEZ1Fk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mgixJYEZ1Fk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mgixJYEZ1Fk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mgixJYEZ1Fk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mgixJYEZ1Fk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z0XmqQ9TV_OZq2Z4SK1Ic96AQ88\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2019-12-01T15:32:28.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "public, private, and static",
+    "description": "Java Programming: public, private, and static keywords \r\nTopics discussed:\n1. public keyword.\n2. Example use of public keyword.\n3. private keyword.\n4. Example use of private keyword.\n5. static keyword.\n6. Example use of static keyword.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #public #private #static",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SITEc4DWwsQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SITEc4DWwsQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SITEc4DWwsQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SITEc4DWwsQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/SITEc4DWwsQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SITEc4DWwsQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6d8ZMbiBtPjm7SrASNt0ObbdgYI\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2019-12-02T13:02:11.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The void Return Type",
+    "description": "Java Programming: The void Return Type Programming\r\nTopics discussed:\n1. Return types.\n2. The void return type. \n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #voidReturnType",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/14Cfx3fpH-w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/14Cfx3fpH-w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/14Cfx3fpH-w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/14Cfx3fpH-w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/14Cfx3fpH-w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "14Cfx3fpH-w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PUaQtdIlwLCkIBi5WJBG_Zq68FE\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2019-12-02T15:31:15.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Command Line Arguments",
+    "description": "Java Programming: Command Line Arguments Programming\r\nTopics discussed:\n1. Command line arguments.\n2. Passing the arguments to our program using the command window and IntelliJ.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #CommandLineArguments",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Up17-azeuyE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Up17-azeuyE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Up17-azeuyE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Up17-azeuyE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Up17-azeuyE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Up17-azeuyE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2Rq2hBT2RfTtw06c_-Vuvk99LBE\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2019-12-03T12:46:09.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Programming Styles",
+    "description": "Java Programming: Programming Styles\nTopics discussed:\n1. Indentation and Spacing.\n2. Block Styles. \r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #ProgrammingStyles",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OXYT01qrDrc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OXYT01qrDrc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OXYT01qrDrc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OXYT01qrDrc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OXYT01qrDrc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OXYT01qrDrc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/tOlW8kMijQ-2ywD3EOTq36M40xo\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2019-12-03T12:55:44.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Programming Errors",
+    "description": "Java Programming: Different types of Errors in Programming.\r\nTopics discussed:\n1. Syntax Errors.\n2. Runtime Errors.\n3. Logical Errors.\n4. Common Errors.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #ProgrammingErrors",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dPQaQWyqYoc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dPQaQWyqYoc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dPQaQWyqYoc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dPQaQWyqYoc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dPQaQWyqYoc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dPQaQWyqYoc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e-QR90x8qqBdYFNvyor4rXQo5Dw\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2019-12-04T13:21:44.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Type Faster in IntelliJ",
+    "description": "Java Programming: How to Type Faster in IntelliJ\nTopics discussed:\n1. Navigation in IntelliJ.\n2. Selection on IntelliJ.\n3. Indentation in IntelliJ.\n4. Duplicating the code in IntelliJ.\n5. Adding and removing the comments in IntelliJ.\n6. Moving a piece of code in IntelliJ.\n7. Selecting a code block in IntelliJ. \r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #IntelliJ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N2m2pm1rMPE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N2m2pm1rMPE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N2m2pm1rMPE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N2m2pm1rMPE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/N2m2pm1rMPE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N2m2pm1rMPE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_5xXRcPgy-e0UxhhWE5oLVw_EK8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2019-12-05T13:02:00.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Java Exercise - Creating Classes & Methods",
+    "description": "Java Programming: Creating Classes and Methods\nTopics discussed:\n1. Creating the main class.\n2. Creating methods.\n3. Calling the methods inside the main class.\n4. Compiling and executing the Java program using CMD.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #MainClass #MethodsInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-94U78VoufQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-94U78VoufQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-94U78VoufQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-94U78VoufQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-94U78VoufQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-94U78VoufQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/frNCOtto64Yhyalwo6OnvGGPrN0\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2019-12-06T12:53:28.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Java Basics - An Overview",
+    "description": "Java Programming: An overview of the basics of Java Programming\nTopics discussed:\n1. Variables.\n2. Data Types.\n3. Operators.\n4. Conditions.\n5. Loops.\n6. Methods.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\r\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\r\n#JavaByNeso #JavaProgramming #Variables #Operators #DataTypes",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/doxwM_gVc90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/doxwM_gVc90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/doxwM_gVc90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/doxwM_gVc90/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/doxwM_gVc90/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "doxwM_gVc90"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/auHrhiQBlAHVq0eaRt7LWCoSw0o\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2019-12-08T13:25:36.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Introduction to Variables",
+    "description": "Java Programming: Introduction to Variables Programming\r\nTopics discussed:\n1. Variables.\n2. Memory.\n3. Declaration of variables.\n4. Initialization of variables.\n5. Assignment of variables.\n6. Printing the value of a variable.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #Variables",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N8LDSryePuc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N8LDSryePuc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N8LDSryePuc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N8LDSryePuc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/N8LDSryePuc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N8LDSryePuc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0OYBPq4Ci90zlTvM-H2GbHmZUUg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2019-12-09T15:49:31.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Variables - Practice",
+    "description": "Java Programming: Variables Programming\r\nTopics discussed:\n1. The practice of creating variables.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #Variables",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ls14YnfR7Hg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ls14YnfR7Hg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ls14YnfR7Hg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ls14YnfR7Hg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ls14YnfR7Hg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ls14YnfR7Hg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MEQbJPO7Amq6Qc13mxdJ3fJ-3cU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2019-12-10T15:27:51.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Constants",
+    "description": "Java Programming: Constants Programming\r\nTopics discussed:\n1. Constants.\n2. Initializing the constants.\n3. Benefits of using the constants.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #Constants",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ccc-Sk8qMAQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ccc-Sk8qMAQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ccc-Sk8qMAQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ccc-Sk8qMAQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ccc-Sk8qMAQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ccc-Sk8qMAQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/D8QQCQU3NGKCutCXrF1fmBHMsqc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2019-12-11T14:19:51.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Identifiers",
+    "description": "Java Programming: Identifiers Programming\r\nTopics discussed:\n1. What are Identifiers?\r\n2. Naming rules of identifiers.\n3. Examples of legal and illegal identifiers.\n4. Case sensitivity.\n\r\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #Identifiers",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1C9f4mqDDlY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1C9f4mqDDlY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1C9f4mqDDlY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1C9f4mqDDlY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1C9f4mqDDlY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1C9f4mqDDlY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XLBBAOSD885yGL2gOkU5Gib17mo\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2019-12-12T13:43:56.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Introduction to Data Types",
+    "description": "Java Programming: Introduction to Data Types Programming\nTopics discussed:\n1. Integers.\n2. Real Numbers/Floating Point Numbers.\n3. Characters.\n4. Strings.\n5. Booleans.\n6. User defined types.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\r\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #DataTypes",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UwpXXiGdlOE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UwpXXiGdlOE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UwpXXiGdlOE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UwpXXiGdlOE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UwpXXiGdlOE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UwpXXiGdlOE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_D7oxNr9Oznxx-Jw7a8Qjkk8DUk\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2019-12-13T14:57:09.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The int Data Type",
+    "description": "Java Programming: The int Data Type Programming\nTopics discussed:\n1. Integers and the int data type.\n2. Range of an int variable.\n3. Initializing an int variable.\n4. Printing the value of an int variable.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #DataTypes #int",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o4Ha6wMOemQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o4Ha6wMOemQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o4Ha6wMOemQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o4Ha6wMOemQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/o4Ha6wMOemQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o4Ha6wMOemQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dhRHwLzi2EsEE7dmKEucICR-kbY\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2019-12-15T14:48:53.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The byte, short, and long Data Types",
+    "description": "Java Programming: The byte, short, and long Data Types Programming\r\nTopics discussed:\n1. The byte data type.\n2. The short data type.\n3. The long data type.\n4. Type conversion.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\n\r\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #DataTypes #byte #short #long",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fGta43iNjNM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fGta43iNjNM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fGta43iNjNM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fGta43iNjNM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fGta43iNjNM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fGta43iNjNM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ASPRzOq5D4XduDShhsBsIEubsAw\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2019-12-16T13:54:25.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Integers Data Types - Practice",
+    "description": "Java Programming: Integers Data Types Programming\r\nTopics discussed:\n1. Initializing a byte.\r\n2. Initializing a short.\r\n3. Initializing an int\r.\n4. Initializing a long\r.\n5. Assigning an int to a long\r.\n6. Performing some arithmetic operations on variables.\r\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #DataTypes #IntegersDataTypes",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sgShaqAI1L8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sgShaqAI1L8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sgShaqAI1L8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sgShaqAI1L8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sgShaqAI1L8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sgShaqAI1L8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ahijyd9ylotiJdWNVtmbb5LszNg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2019-12-18T16:39:57.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Bytes and Values",
+    "description": "Java Programming: Bytes and Values Programming\r\nTopics discussed:\n1. Bits and Memory.\r\n2. Size of different integer data types.\r\n3. Calculating the range of integer data types.\r\n4. Which integer data type to use?\r\n5. Finding the range programmatically\r.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\r\n\nContribute: http://www.nesoacademy.org/donate\r\n\nMemberships: https://bit.ly/2U7YSPI\r\n\nBooks: http://www.nesoacademy.org/recommended-books\r\n\nWebsite ► http://www.nesoacademy.org/\r\nForum ► https://forum.nesoacademy.org/\r\nFacebook ► https://goo.gl/Nt0PmB\r\nTwitter      ► https://twitter.com/nesoacademy\r\n\nMusic:\r\nAxol x Alex Skrindo - You [NCS Release]\r\n\n#JavaByNeso #JavaProgramming #DataTypes #Bytes #Values",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ilgo8h4cYnU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ilgo8h4cYnU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ilgo8h4cYnU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ilgo8h4cYnU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ilgo8h4cYnU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ilgo8h4cYnU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3UaGQ5n8Fb61djj_YB64JOjSaNc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2019-12-19T13:14:00.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The double and float Data Types",
+    "description": "Java Programming: The double and float Data Types Programming\nTopics discussed:\n1. Floating-Point Numbers.\n2. The double data type.\n3. The float data type.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DataTypes #double #float",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/shHBfb71UJo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/shHBfb71UJo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/shHBfb71UJo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/shHBfb71UJo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/shHBfb71UJo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "shHBfb71UJo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KsXTjuyjBbeGIAvRebsi5Ah_zEc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2019-12-22T12:57:40.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The char Data Type",
+    "description": "Java Programming: The char Data Type Programming\nTopics discussed:\n1. The Unicode encoding scheme.\n2. The char data type.\n3. Initializing the char variables.\n4. Assigning an integer to a char variable.\n5. Assigning a Unicode character to a char variable.\n6. Assigning a character to an int variable.\n7. Assigning a Unicode character to an int variable.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DataTypes #char",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jB5F-GkOhDo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jB5F-GkOhDo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jB5F-GkOhDo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jB5F-GkOhDo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jB5F-GkOhDo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jB5F-GkOhDo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/z1uj8aSJUjoUO_9SZ0cwe3Z_xUU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2019-12-23T13:45:15.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The boolean Data Type",
+    "description": "Java Programming: The boolean Data Type Programming\nTopics discussed:\n1. The boolean data type.\n2. Initializing boolean variables.\n3. Conditions.\n4. Using a boolean with an if-else statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DataTypes #boolean",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Jlv_fdB4cTY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Jlv_fdB4cTY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hkqb5LU1qKLU01F7w9ZInUPuQrI\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2019-12-28T12:59:44.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The String Data Type",
+    "description": "Java Programming: The String Data Type Programming\nTopics discussed:\n1. String class.\n2. String objects.\n3. Calling some methods of the String class.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DataTypes #String",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VElPtzsDEWU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VElPtzsDEWU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VElPtzsDEWU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VElPtzsDEWU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VElPtzsDEWU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VElPtzsDEWU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xixn03Ae1u9mlM78Yj6DrOX8RQk\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2019-12-31T16:02:21.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Calling String Methods",
+    "description": "Java Programming: Calling String Methods Programming\nTopics discussed:\n1. Calling Methods with Return Type.\n2. String toUpperCase() Method.\n3. String toLowerCase() Method.\n4. String length() Method.\n5. String isEmpty() Method.\n6. String isBlank() Method.\n7. String charAt() Method.\n8. String indexOf() Method.\n9. String lastIndexOf() Method.\n10. String concat() Method.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #StringMethods",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ml08Trm5a58/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ml08Trm5a58/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ml08Trm5a58/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ml08Trm5a58/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ml08Trm5a58/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ml08Trm5a58"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rQKi254PtE4Xhmu74Qcot7_w20E\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2020-01-14T12:32:29.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Concatenating Strings",
+    "description": "Java Programming: Concatenating Strings Programming\nTopics discussed:\n1. Concatenating Strings using +\n2. Concatenating Strings and Numbers.\n3. More examples of concat().\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ConcatenatingStrings",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xD7scpUWcOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xD7scpUWcOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xD7scpUWcOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xD7scpUWcOg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xD7scpUWcOg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xD7scpUWcOg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PfSlEQBrvZIrPfD_aM-8fwadGBs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2020-01-15T12:27:56.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Primitive Types and Reference Types",
+    "description": "Java Programming: Primitive Types and Reference Types Programming\nTopics discussed:\n1. Primitive types.\n2. Reference types.\n3. A string is a Reference type.\n4. Primitive types vs Reference types.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #PrimitiveTypes #ReferenceTypes",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OmcFVHpb0v0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OmcFVHpb0v0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OmcFVHpb0v0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OmcFVHpb0v0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OmcFVHpb0v0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OmcFVHpb0v0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/u9qJ98djSGauf-5fzNEOqOekLtI\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2020-01-16T12:57:50.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Instantiating a String Object",
+    "description": "Java Programming: Instantiating a String Object Programming\nTopics discussed:\n1. The new keyword.\n2. Instantiating an object.\n3. Instantiating a String object using the new keyword.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #StringObject",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V4yLuptZq40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V4yLuptZq40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V4yLuptZq40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V4yLuptZq40/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/V4yLuptZq40/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V4yLuptZq40"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Lxg-vPdDrjuyT515xB34DsD_iP4\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2020-01-17T12:34:13.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Strings are Immutable",
+    "description": "Java Programming: Strings are Immutable Programming\nTopics discussed:\n1. Immutable Objects.\n2. Strings are immutable.\n3. Using new with Strings.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #StringsAreImmutable",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MQcWw_A_pr0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MQcWw_A_pr0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MQcWw_A_pr0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MQcWw_A_pr0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MQcWw_A_pr0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MQcWw_A_pr0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/maTwVGzi5mWBOYTcmqee0BrmMhs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2020-02-23T14:09:13.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Scanner Class",
+    "description": "Java Programming: The Scanner Class Programming\nTopics Discussed:\n1. The Scanner Class.\n2. Instantiating a Scanner object.\n3. Input methods of a Scanner object.\n4. Examples of reading the input from the keyboard.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ScannerClass",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/huZ1neRqNho/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/huZ1neRqNho/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/huZ1neRqNho/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/huZ1neRqNho/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/huZ1neRqNho/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "huZ1neRqNho"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/moYpD20kleQ7W_e_49YltEPSTTg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2020-02-24T13:31:30.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Reading Input From the Keyboard",
+    "description": "Java Programming: Reading Input From the Keyboard Programming\nTopics Discussed:\n1. Instantiating a Scanner object.\n2. Reading an int using the nextInt() method.\n3. Reading a float using the nextFloat() method.\n4. Reading a double using the nextDouble() method.\n5. Reading a boolean using the nextBoolean() method.\n6. Reading a String using the next() method.\n7. Reading a String using the nextLine() method.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ReadingTheInputInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mEw96VszaYE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mEw96VszaYE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mEw96VszaYE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mEw96VszaYE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mEw96VszaYE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mEw96VszaYE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/M_FhqIBixqVCL8qgdiUzr9-XfJs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2020-02-25T12:54:18.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Java Exercise – Favorite Number",
+    "description": "Java Programming: Favourite Number Program Programming\nTopics Discussed:\n1. Algorithms in Programming.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #FavoriteNumberProgram",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Az1SasgFzyo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Az1SasgFzyo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Az1SasgFzyo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Az1SasgFzyo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Az1SasgFzyo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Az1SasgFzyo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U0bxOPdn10XBXeIptjRTdef3huQ\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2020-02-26T12:28:59.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Java Exercise – Name and Age",
+    "description": "Java Programming: Name and Age Program Programming\nTopics Discussed:\n1. Reading multiple values using one Scanner object.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #NameAndAgeProgram",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WLueH0XFOPc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WLueH0XFOPc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WLueH0XFOPc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WLueH0XFOPc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WLueH0XFOPc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WLueH0XFOPc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZrPsxtZzd1uuYV28kY1FvRTOQXs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zQzFBN0RGNzNFREFCMjBE",
+   "snippet": {
+    "publishedAt": "2020-02-27T09:51:38.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Literals",
+    "description": "Java Programming: Literals Programming\nTopics Discussed:\n1. Literals.\n2. String, Character, Integer, Floating-point, and Boolean literals.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #LiteralsInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/va3xGHeYD9E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/va3xGHeYD9E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/va3xGHeYD9E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/va3xGHeYD9E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/va3xGHeYD9E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "va3xGHeYD9E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AGp_r-z34mEFfo6DwhFZkujGtJM\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2020-02-28T12:33:43.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Assignment Operator",
+    "description": "Java Programming: The Assignment Operator Programming\nTopics Discussed:\n1. Assignment operator.\n2. Assignment statements.\n3. Assignment expressions.\n4. Augmented assignment operator.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #AssignmentOperator",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QSsjB1tMPhA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QSsjB1tMPhA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QSsjB1tMPhA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QSsjB1tMPhA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QSsjB1tMPhA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QSsjB1tMPhA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5Sth9-mIXIT-oPC4qDSVFKB2AUw\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DNkMwRUI2MkI4QkI4NDFG",
+   "snippet": {
+    "publishedAt": "2020-02-29T13:16:00.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Arithmetic Operators",
+    "description": "Java Programming: Arithmetic Operators Programming\nTopics Discussed:\n1. Addition Operator.\n2. Subtraction Operator.\n3. Multiplication Operator.\n4. Division Operator.\n5. Modulo Operator.\n6. Operator precedence.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArithmeticOperators",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_XZ6i7cjdH8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_XZ6i7cjdH8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_XZ6i7cjdH8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_XZ6i7cjdH8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_XZ6i7cjdH8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_XZ6i7cjdH8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uDcRjfGb7bIeEw8Wgcr0jpLaoD0\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2020-03-01T12:38:39.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Increment and Decrement Operators",
+    "description": "Java Programming: Increment and Decrement Operators Programming\nTopics Discussed:\n1. The increment operator.\n2. The decrement operator.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #IncrementOperator #DecrementOperator",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BuMbVAN0_-8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BuMbVAN0_-8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BuMbVAN0_-8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BuMbVAN0_-8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BuMbVAN0_-8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BuMbVAN0_-8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X2UTEx8rDAI3l-IQypjHmT0-Zzk\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41MzY4MzcwOUFFRUU3QzEx",
+   "snippet": {
+    "publishedAt": "2020-03-02T12:44:41.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Casting",
+    "description": "Java Programming: Casting Programming\nTopics Discussed:\n1. Casting.\n2. Implicit Casting.\n3. Explicit Casting.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #CastingInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9ATVKpRZaPg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9ATVKpRZaPg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9ATVKpRZaPg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9ATVKpRZaPg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9ATVKpRZaPg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9ATVKpRZaPg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oLSr3A6HG38UYFuVUZAO3tHix28\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2020-03-03T13:28:39.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Division Operator",
+    "description": "Java Programming: The Division Operator Programming\nTopics Discussed:\n1. Dividing integers.\n2. Dividing doubles.\n3. Dividing floats.\n4. Dividing integers and doubles.\n5. Dividing floats and doubles.\n6. Dividing floats and integers.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DivisionOperator",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PJDEuQK7rE8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PJDEuQK7rE8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PJDEuQK7rE8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PJDEuQK7rE8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PJDEuQK7rE8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PJDEuQK7rE8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g99D0z0ajpiTZ9maYP6wrEQNC7E\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yQUJFNUVCMzVDNjcxRTlF",
+   "snippet": {
+    "publishedAt": "2020-03-04T12:13:41.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Division Operator (Examples)",
+    "description": "Java Programming: The Division Operator Programming\nTopics Discussed:\n1. Examples on the division operator.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DivisionOperator",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AMwQvOR9sxA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AMwQvOR9sxA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AMwQvOR9sxA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AMwQvOR9sxA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AMwQvOR9sxA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AMwQvOR9sxA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2V1tff9Kla2OwRez1uvBQfOjj-M\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS40QzRDOEU0QUYwNUIxN0M1",
+   "snippet": {
+    "publishedAt": "2020-03-05T12:16:28.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Relational Operators",
+    "description": "Java Programming: Relational Operators Programming\nTopics Discussed:\n1. Relational operators.\n2. Equal and not equal operators.\n3. Greater than and greater than or equal operators.\n4. Less than and less than or equal operators.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #RelationalOperators",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EDepDr70dqg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EDepDr70dqg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EDepDr70dqg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EDepDr70dqg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EDepDr70dqg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EDepDr70dqg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cy5S1tYUtd5MglRz-GXn-hWUrCY\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41RTNBREYwMkI5QzU3RkY2",
+   "snippet": {
+    "publishedAt": "2020-03-06T11:32:43.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Logical Operators",
+    "description": "Java Programming: Logical Operators Programming\nTopics Discussed:\n1. Logical operators.\n2. Logical AND, OR, & NOT.\n3. Combining conditions using AND & OR.\n4. Negating Boolean values using NOT.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #LogicalOperators",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aGvuQanOfRQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aGvuQanOfRQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aGvuQanOfRQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aGvuQanOfRQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aGvuQanOfRQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aGvuQanOfRQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xvghO7eV1MNADZyilhSlMdfjaSw\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5ENjI1QUI0MDI5NEQzODFE",
+   "snippet": {
+    "publishedAt": "2020-03-07T12:32:07.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Conditional Operator",
+    "description": "Java Programming: Conditional Operator Programming\nTopics Discussed:\n1. Conditional Operator.\n2. Assigning the values to variables based on a condition.\n3. Printing the values based on a condition.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ConditionalOperator",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Kgp2N7qmk1s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Kgp2N7qmk1s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Kgp2N7qmk1s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Kgp2N7qmk1s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Kgp2N7qmk1s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Kgp2N7qmk1s"
+    }
+   }
+  },
+
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WIzRq9u9EAcraiNc1to0uRgRdP8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS44QzVGQUU2QjE2NDgxM0M4",
+   "snippet": {
+    "publishedAt": "2020-03-07T20:14:22.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "if Statement",
+    "description": "Java Programming: if Statement Programming\nTopics Discussed:\n1. if statement.\n2. Examples on if statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ifStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DOlg2dBrErc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DOlg2dBrErc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DOlg2dBrErc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DOlg2dBrErc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DOlg2dBrErc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 50,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DOlg2dBrErc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DZPMkSvQ7qpYEPmArKgALLmvzYI\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xMzgwMzBERjQ4NjEzNUE5",
+   "snippet": {
+    "publishedAt": "2020-03-09T09:37:05.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "if Statement – Exercise",
+    "description": "Java Programming: if Statement Programming\nTopics Discussed:\n1. Reading multiple values using one Scanner object.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ifStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d22sjIO4wQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d22sjIO4wQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d22sjIO4wQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d22sjIO4wQM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/d22sjIO4wQM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 51,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d22sjIO4wQM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ORuADvLx1qAIel_3gXtRSqAIxeM\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zMEQ1MEIyRTFGNzhDQzFB",
+   "snippet": {
+    "publishedAt": "2020-03-10T12:01:12.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "if-else Statement",
+    "description": "Java Programming: if-else Statements Programming\nTopics Discussed:\n1. else statement.\n2. if-else statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ifelseStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-VeUElwL27I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-VeUElwL27I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-VeUElwL27I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-VeUElwL27I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-VeUElwL27I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 52,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-VeUElwL27I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HRi75tJXGQ_6z65_PRdcsw_P0ak\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS42Qzk5MkEzQjVFQjYwRDA4",
+   "snippet": {
+    "publishedAt": "2020-03-11T13:00:12.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Nested if-else Statements",
+    "description": "Java Programming: Nested if-else Statements Programming\nTopics Discussed:\n1. Nested if-else statements.\n2. if-else ladder.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #NestedifelseStatements",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6sYZDA8JPhk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6sYZDA8JPhk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6sYZDA8JPhk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6sYZDA8JPhk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6sYZDA8JPhk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 53,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6sYZDA8JPhk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1u1_HeTTy7SVeuP6gwA-uYRDGXE\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41NTZEOThBNThFOUVGQkVB",
+   "snippet": {
+    "publishedAt": "2020-03-11T21:36:48.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "switch Statement",
+    "description": "Java Programming: switch Statement Programming\nTopics Discussed:\n1. Switch statement.\n2. Cases in a switch statement.\n3. The default case in a switch statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #switchStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wcwWlasmLWs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wcwWlasmLWs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wcwWlasmLWs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wcwWlasmLWs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wcwWlasmLWs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 54,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wcwWlasmLWs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/c5mQZOas3DGzJ4-B9DqlzOauF-Q\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS43NERCMDIzQzFBMERCMEE3",
+   "snippet": {
+    "publishedAt": "2020-03-13T12:21:17.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "switch vs if-else",
+    "description": "Java Programming: switch vs if-else Programming\nTopics Discussed:\n1. switch vs if-else. \n2. The break keyword.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #switchStatement #breakKeyword",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/44VPxJYgtkw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/44VPxJYgtkw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/44VPxJYgtkw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/44VPxJYgtkw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/44VPxJYgtkw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 55,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "44VPxJYgtkw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7_2h4Ejb_AlG93Q2ckIPn6DZ0Ow\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5GNjAwN0Y0QTFGOTVDMEMy",
+   "snippet": {
+    "publishedAt": "2020-03-13T22:02:35.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "if-else Statement (Exercise 1)",
+    "description": "Java Programming: if-else program Programming\nTopics Discussed:\n1. Developing a calculator using the if-else statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ifelseStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BhFXlOE2agg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BhFXlOE2agg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BhFXlOE2agg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BhFXlOE2agg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BhFXlOE2agg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 56,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BhFXlOE2agg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VkvbcTwJm5BZEG_ox1R5pFdlU5M\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CQkEwRDA0MDkwNUM2MDY1",
+   "snippet": {
+    "publishedAt": "2020-03-15T17:35:46.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "if-else Statement (Exercise 2)",
+    "description": "Java Programming: if-else program Programming\nTopics Discussed:\n1. Developing \"Lucky Number\" program using the if-else statement.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ifelseStatement",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zk7VuMPE-ww/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zk7VuMPE-ww/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zk7VuMPE-ww/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zk7VuMPE-ww/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zk7VuMPE-ww/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 57,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zk7VuMPE-ww"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d9pNvAKLJEgQiavT8QlheTrD2JE\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wNEU1MTI4NkZEMzVBN0JF",
+   "snippet": {
+    "publishedAt": "2020-03-16T11:58:56.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The While Loop",
+    "description": "Java Programming: The While Loop Programming\nTopics Discussed:\n1. Uses of loops.\n2. Types of loops.\n3. The While loop.\n4. Infinite loops.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #WhileLoop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g8GcFboF2rM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g8GcFboF2rM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g8GcFboF2rM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g8GcFboF2rM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g8GcFboF2rM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 58,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g8GcFboF2rM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gg_sJJ--EQIcF7f6YCWt8ciisR8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wMTYxQzVBRDI1NEVDQUZE",
+   "snippet": {
+    "publishedAt": "2020-03-17T08:56:39.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "While Loop – Exercise",
+    "description": "Java Programming: While Loop Exercise Programming\nTopics Discussed:\n1. Reading an integer between 1 and 10 from the user with the help of While loop.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #WhileLoop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dw-4mDaxPu8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dw-4mDaxPu8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dw-4mDaxPu8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dw-4mDaxPu8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dw-4mDaxPu8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 59,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dw-4mDaxPu8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NvM_VrwlrJwI5N3mZJXtQ43PXLM\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zMUEyMkQwOTk0NTg4MDgw",
+   "snippet": {
+    "publishedAt": "2020-03-17T21:08:54.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Do While Loop",
+    "description": "Java Programming: The Do While Loop Programming\nTopics Discussed:\n1. The do-while loop.\n2. do-while loop vs. while loop.\n3. Reading a number between 1 and 10 using a do-while loop.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #DoWhileLoop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2E-UgePiOoo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2E-UgePiOoo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2E-UgePiOoo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2E-UgePiOoo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2E-UgePiOoo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 60,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2E-UgePiOoo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dOmfngPTSnoznVpiUeSqkea45vs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS42QzdBMzlBQzQzRjQ0QkQy",
+   "snippet": {
+    "publishedAt": "2020-03-19T09:27:03.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The For Loop",
+    "description": "Java Programming: The For Loop Programming\nTopics Discussed:\n1. The for loop.\n2. For loop vs. while loop.\n3. Infinite for loop.\n4. How to use a for loop just like a while loop.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ForLoop",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GwcisLY5avc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GwcisLY5avc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GwcisLY5avc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GwcisLY5avc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GwcisLY5avc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 61,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GwcisLY5avc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dc4-H0NNcQH4O3G1gUty-nVLRVs\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS41OURENDc2NEM1MDI5Mjky",
+   "snippet": {
+    "publishedAt": "2020-03-20T13:28:04.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Nested Loops",
+    "description": "Java Programming: Nested Loops Programming\nTopics Discussed:\n1. Nested loops.\n2. Drawing a 10x10 multiplication table using nested loops.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #NestedLoops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CwjSpUIFi7w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CwjSpUIFi7w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CwjSpUIFi7w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CwjSpUIFi7w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CwjSpUIFi7w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 62,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CwjSpUIFi7w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6Upks-SiV1H9RwpADtIBonFYqBY\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wRjhFM0MxMTU1MEUzQ0VB",
+   "snippet": {
+    "publishedAt": "2020-03-21T14:11:39.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Break and Continue Keywords",
+    "description": "Java Programming: Break and Continue Keywords Programming\nTopics Discussed:\n1. The break keyword.\n2. The continue keyword.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #BreakKeyword #ContinueKeyword",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aITdnsUTeek/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aITdnsUTeek/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aITdnsUTeek/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aITdnsUTeek/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aITdnsUTeek/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 63,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aITdnsUTeek"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HBOervm7_QzbEs4O78t0vDNlrwo\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CNTZFOTNGQzZEODg1RUQx",
+   "snippet": {
+    "publishedAt": "2020-03-22T12:58:39.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 1)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Printing the even numbers between 1 to 100 with the help of loops.\n2. Printing the odd numbers between 1 to 100 with the help of loops.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cxhf69OL_oM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cxhf69OL_oM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cxhf69OL_oM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cxhf69OL_oM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cxhf69OL_oM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 64,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cxhf69OL_oM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6qdtFq3wyren2pvGMk1nOxO9I5c\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CNTcxMDQ0NThBNzMxODYz",
+   "snippet": {
+    "publishedAt": "2020-03-23T10:59:34.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 2)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a sequence of integers from the user and stops by displaying “Done” when the sum of these values exceeds 100.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WFBEV-j0jZM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WFBEV-j0jZM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WFBEV-j0jZM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WFBEV-j0jZM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WFBEV-j0jZM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 65,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WFBEV-j0jZM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IsrdBTvcm5rnwOF24h9W1wr8pYQ\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5ERkUyQTM0MzEwQjZCMTY5",
+   "snippet": {
+    "publishedAt": "2020-03-24T12:09:35.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 3)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that displays the sum of the strict divisors of an integer given by the user.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ws0jAnMn7AM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ws0jAnMn7AM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ws0jAnMn7AM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ws0jAnMn7AM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ws0jAnMn7AM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 66,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ws0jAnMn7AM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RRRwXNiUwOLXt6mUknj6sOVi6TA\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xM0YyM0RDNDE4REQ1NDA0",
+   "snippet": {
+    "publishedAt": "2020-03-25T11:26:20.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 4)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a positive number N from the user then indicates if N is prime or not.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XYmPN55q-as/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XYmPN55q-as/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XYmPN55q-as/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XYmPN55q-as/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XYmPN55q-as/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 67,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XYmPN55q-as"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G1Ok3G4_TCknI_VyJqJ5BlFwZyQ\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS42MjYzMTMyQjA0QURCN0JF",
+   "snippet": {
+    "publishedAt": "2020-03-26T10:57:49.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 5)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a sequence of positive integers. The program stops when the user fills a negative value and shows the maximum and the minimum of these numbers. \n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 68,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w3TPqnwxVyg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/smLUicRCCfXSqsk6K1VWOFQepAU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS40MDNEMzA0QTBFRThFMzBE",
+   "snippet": {
+    "publishedAt": "2020-03-26T10:58:01.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 5)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a sequence of positive integers. The program stops when the user fills a negative value and shows the maximum and the minimum of these numbers. \n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w3TPqnwxVyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 69,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "w3TPqnwxVyg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Cbui8OlhMPHN9cq9aTlX2VuAYpU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS42RTNCOEMxREI3Q0VDMjU2",
+   "snippet": {
+    "publishedAt": "2020-03-27T11:17:35.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 6)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that displays the sum of digits of an integer read from the user.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hFRgjAusrhA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hFRgjAusrhA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hFRgjAusrhA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hFRgjAusrhA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hFRgjAusrhA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 70,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hFRgjAusrhA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LwFwyJwliErYj5RzYRq1gTBHs0w\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS43QzNCNkZENzIyMDY2MjZB",
+   "snippet": {
+    "publishedAt": "2020-03-28T11:56:09.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 7)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads an integer n and displays the nth Fibonacci number.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops #Fibonnacci",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e49tD9XaCWQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e49tD9XaCWQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e49tD9XaCWQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e49tD9XaCWQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e49tD9XaCWQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 71,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e49tD9XaCWQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q2jLQnrug-gNzw4OQ3VFITksWak\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5EQkE3RTJCQTJEQkFBQTcz",
+   "snippet": {
+    "publishedAt": "2020-03-28T19:24:36.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 8)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that displays a string with space after each character.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xhFlv0I1Uak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xhFlv0I1Uak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xhFlv0I1Uak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xhFlv0I1Uak/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xhFlv0I1Uak/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 72,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xhFlv0I1Uak"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bMEqb96wFSORtVfRWuvMHcu9izc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yQzk4QTA5QjkzMTFFOEI1",
+   "snippet": {
+    "publishedAt": "2020-03-31T12:15:44.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 9)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that displays the reverse of a string.\n2. Reversing a string in a new string.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WZv8momDIAY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WZv8momDIAY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WZv8momDIAY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WZv8momDIAY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WZv8momDIAY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 73,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WZv8momDIAY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/1poyEfi7JnO3RXq_FqWjbXLpC-o\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS45NDlDQUFFOThDMTAxQjUw",
+   "snippet": {
+    "publishedAt": "2020-04-01T17:58:05.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 10)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that finds if a string is a palindrome string or not.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops #Palindrome",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JsOVfu4qQvw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JsOVfu4qQvw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JsOVfu4qQvw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JsOVfu4qQvw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JsOVfu4qQvw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 74,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JsOVfu4qQvw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9-VYXY4Y_XqnyxQaHjeC11trfXg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xN0Y2QjVBOEI2MzQ5OUM5",
+   "snippet": {
+    "publishedAt": "2020-04-02T18:51:18.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 11)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a positive integer N from the user and displays the following:\n1\n22\n333\n4444\n…\nNNNNN…N\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YjyT0t58p90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YjyT0t58p90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YjyT0t58p90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YjyT0t58p90/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YjyT0t58p90/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 75,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YjyT0t58p90"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/BfbFYekN_lcxcq4teFwwXOunBsc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5FQUY2Qzk4RUFDN0ZFRkZF",
+   "snippet": {
+    "publishedAt": "2020-04-03T22:30:26.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 12)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a positive integer N and displays a pyramid of stars of N rows.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/26cu_jyik10/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/26cu_jyik10/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/26cu_jyik10/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/26cu_jyik10/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/26cu_jyik10/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 76,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "26cu_jyik10"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5I6-TKWKF43xuEyLJVQYcpsReQU\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CMEVBRUJERkUyNTBENTkz",
+   "snippet": {
+    "publishedAt": "2020-04-04T19:08:35.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 13)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a positive integer N and displays a triangle of stars of N rows.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/j2xmaxUCbz0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/j2xmaxUCbz0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/j2xmaxUCbz0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/j2xmaxUCbz0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/j2xmaxUCbz0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 77,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j2xmaxUCbz0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/G2FIstfcB5jeu8zQK1JqhDLvUbA\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xNjIyNEE0MDEyRDlCMjBE",
+   "snippet": {
+    "publishedAt": "2020-04-05T19:16:22.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Loops (Exercise 14)",
+    "description": "Java Programming: Programming Question on Loops Programming\nTopics Discussed:\n1. Writing a program that reads a positive integer N and displays a rectangle of N rows.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Loops",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kFd_HuYUwkU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kFd_HuYUwkU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kFd_HuYUwkU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kFd_HuYUwkU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kFd_HuYUwkU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 78,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kFd_HuYUwkU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jFWMSp7rftyuLv1DvUGBgJRxVqc\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS44QTY2MEEzNzBFQUJCMUQ2",
+   "snippet": {
+    "publishedAt": "2020-04-06T22:35:35.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Scope and Local Variables",
+    "description": "Java Programming: Scope and Local Variables Programming\nTopics Discussed:\n1. Scope & local variables.\n2. Scope & naming local variables.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ScopeOfVariable #LocalVariable",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2nTjUAeD5WE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2nTjUAeD5WE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2nTjUAeD5WE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2nTjUAeD5WE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2nTjUAeD5WE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 79,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2nTjUAeD5WE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KqMIFlcGh_UaNaLHYQEuLIE3YAo\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4zQTkzRjgxRTY0OEU0MkM3",
+   "snippet": {
+    "publishedAt": "2020-04-07T21:07:03.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Methods",
+    "description": "Java Programming: Methods Programming\nTopics Discussed:\n1. Void method.\n2. Value-returning method.\n3. The return keyword.\n4. Calling methods.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #Methods #VoidMethod",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r0SewFmbCUI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r0SewFmbCUI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r0SewFmbCUI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r0SewFmbCUI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r0SewFmbCUI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 80,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r0SewFmbCUI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/hvouM_enwdPdyl-ueEMVse3iZB8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4xNTZBNUQxMDZBQzFGMjkw",
+   "snippet": {
+    "publishedAt": "2020-04-08T18:55:11.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Passing Arguments by Value",
+    "description": "Java Programming: Passing Arguments by Value Programming\nTopics Discussed:\n1. Parameters and Arguments.\n2. Passing Arguments by Value.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #PassingArguments",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H71vRa86AGg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H71vRa86AGg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H71vRa86AGg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/H71vRa86AGg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/H71vRa86AGg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 81,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "H71vRa86AGg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/phUr269176aPZv3PSbsLeBdEAQQ\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wMDFGNzBEOTU4Q0Y1Q0RG",
+   "snippet": {
+    "publishedAt": "2020-04-10T11:34:56.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Passing Arguments by Reference",
+    "description": "Java Programming: Passing Arguments by Reference Programming\nTopics Discussed:\n1. Point Class.\n2. Passing Arguments by Reference.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #PassingArguments",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q_q-6KuP91c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q_q-6KuP91c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q_q-6KuP91c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q_q-6KuP91c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q_q-6KuP91c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 82,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q_q-6KuP91c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-SS-ubk8YAQrQXbToWJiYiGog04\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS44QTA1QTQyRTc3M0VGQzYx",
+   "snippet": {
+    "publishedAt": "2020-04-10T18:50:56.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Method Overloading",
+    "description": "Java Programming: Method Overloading Programming\nTopics Discussed:\n1) Method Overloading.\n2) Overloading some methods.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #MethodOverloading",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/km8xnlSRtWg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/km8xnlSRtWg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/km8xnlSRtWg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/km8xnlSRtWg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/km8xnlSRtWg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 83,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "km8xnlSRtWg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YarIIE7xuU_QcPJGPreWyArA3DA\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS44MkM2RjVEQkQ5N0I2MjVE",
+   "snippet": {
+    "publishedAt": "2020-04-11T18:22:01.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Methods (Exercise 1)",
+    "description": "Java Programming: Method Overloading Programming\nTopics Discussed:\n1) Writing a method that gets the name of the user and a method that gets the age of the user.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #MethodsInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Dw-wDvLHitY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Dw-wDvLHitY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Dw-wDvLHitY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Dw-wDvLHitY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Dw-wDvLHitY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 84,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Dw-wDvLHitY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rEcA3llzEIiZ6bFSBoBVhHYXlH8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS40NzE2MTY1QTM3RUI3QkU3",
+   "snippet": {
+    "publishedAt": "2020-04-12T23:21:32.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Methods (Exercise 2)",
+    "description": "Java Programming: Method Overloading Programming\nTopics Discussed:\n1. Writing a program that prints the prime numbers between two numbers. This program is divided into multiple methods.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #MethodsInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/swj8_rUCyFk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/swj8_rUCyFk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/swj8_rUCyFk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/swj8_rUCyFk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/swj8_rUCyFk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 85,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "swj8_rUCyFk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6bE2V-3swRjEdCNu53YV0gsgl-4\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5EMzJDRTUwQjBEOUVFQzAw",
+   "snippet": {
+    "publishedAt": "2020-04-13T21:00:29.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Single-Dimensional Arrays (Part 1)",
+    "description": "Java Programming: One-Dimensional Arrays Programming\nTopics Discussed:\n1) The null value.\n2) Arrays.\n3) Creating arrays and default values.\n4) Accessing array elements.\n5) Array initializers.\n6) Printing arrays.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kWJHzambtNo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kWJHzambtNo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kWJHzambtNo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kWJHzambtNo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kWJHzambtNo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 86,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kWJHzambtNo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jVwBuU2UGd-cXhwHJI4wpYn8aL8\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5CMUM0NzY5NzdEQzlGRjAx",
+   "snippet": {
+    "publishedAt": "2020-04-14T21:41:07.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Single-Dimensional Arrays (Part 2)",
+    "description": "Java Programming: One-Dimensional Arrays Programming\nTopics Discussed:\n1) Anonymous arrays.\n2) Exceeding array bounds.\n3) Printing char arrays.\n4) Passing arrays to methods.\n5) Returning arrays from methods.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LDxIl9La5nk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LDxIl9La5nk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LDxIl9La5nk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LDxIl9La5nk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LDxIl9La5nk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 87,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LDxIl9La5nk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Ekx4wqJSDsjwJEtIuf91MghmSpk\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5GMDBDNkJGMzYzREUyMTYw",
+   "snippet": {
+    "publishedAt": "2020-04-15T21:01:27.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Arrays Class (Part 1)",
+    "description": "Java Programming: The Arrays Class Programming\nTopics Discussed:\n1) The Arrays class.\n2) Sorting arrays using the sort() method of the Arrays Class.\n3) Searching arrays using the binarySearch() method of the Arrays Class.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArraysClass #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZJx3T3XL6CM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZJx3T3XL6CM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZJx3T3XL6CM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZJx3T3XL6CM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZJx3T3XL6CM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 88,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZJx3T3XL6CM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/HFG-xgj80EHR45k1XVLwz3rmAMg\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4wQUE0QzM4MkJGQ0YwQjUx",
+   "snippet": {
+    "publishedAt": "2020-04-16T22:15:25.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Arrays Class (Part 2)",
+    "description": "Java Programming: The Arrays Class Programming\nTopics Discussed:\n1) Comparing arrays using the equals() method of the Arrays Class.\n2) The equals() method of Objects.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArraysClass #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-VShg6LaWgc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-VShg6LaWgc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-VShg6LaWgc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-VShg6LaWgc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-VShg6LaWgc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 89,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-VShg6LaWgc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bZ1_6U6WCazp6GPnXiyIsbACp9c\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS5DQjg2RDQyMEVGQkZFOEVF",
+   "snippet": {
+    "publishedAt": "2020-04-17T19:39:11.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "The Arrays Class (Part 3)",
+    "description": "Java Programming: The Arrays Class Programming\nTopics Discussed:\n1) Filling arrays using the fill() method of the Arrays Class.\n2) Printing arrays using the toString() method of the Arrays Class.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #ArraysClass #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hCB3TWpwMMM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hCB3TWpwMMM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hCB3TWpwMMM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hCB3TWpwMMM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hCB3TWpwMMM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 90,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hCB3TWpwMMM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/T69MfXGzxQ4YRu3vSowmXPBhUng\"",
+   "id": "UExCbG5LNmZFeXFSaktBX051SzltSG1sazBkWnp1UDFQNS4yM0EyQ0U1M0I2RkIwNTQ0",
+   "snippet": {
+    "publishedAt": "2020-04-18T19:42:37.000Z",
+    "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+    "title": "Variable-Length Argument Lists",
+    "description": "Java Programming: Variable-Length Argument Lists Programming\nTopics Discussed:\n1) Variable-Length Argument Lists i.e. passing a variable number of arguments to a method.\n\nFollow Neso Academy on Instagram: @nesoacademy (https://bit.ly/2XP63OE)\n\nContribute: http://www.nesoacademy.org/donate\n\nMemberships: https://bit.ly/2U7YSPI\n\nBooks: http://www.nesoacademy.org/recommended-books\n\nWebsite ► http://www.nesoacademy.org/\nForum ► https://forum.nesoacademy.org/\nFacebook ► https://goo.gl/Nt0PmB\nTwitter      ► https://twitter.com/nesoacademy\n\nMusic:\nAxol x Alex Skrindo - You [NCS Release]\n\n#JavaByNeso #JavaProgramming #VariableLengthArgument #ArraysInJava",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4ROrd09dhHM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4ROrd09dhHM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4ROrd09dhHM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4ROrd09dhHM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4ROrd09dhHM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Neso Academy",
+    "playlistId": "PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5",
+    "position": 91,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4ROrd09dhHM"
+    }
+   }
+  }
+ ]
+}

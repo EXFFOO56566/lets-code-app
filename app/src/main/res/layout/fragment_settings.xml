@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.SettingsFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:scaleType="centerCrop"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/settings_white"/>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alim Sourav"
+            android:textSize="20sp"
+            android:fontFamily="@font/inter_light"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="95dp"
+            android:layout_marginTop="7dp"
+            android:layout_gravity="top"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Customize your App"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="95dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="7dp"/>
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:layout_marginTop="100dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="15dp"
+                android:elevation="5dp">
+
+                <TextView
+                    android:id="@+id/teme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Chose your theme"
+                    android:textColor="?attr/BlackWhite"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"/>
+
+                <com.google.android.material.chip.ChipGroup
+                    android:id="@+id/chip_theme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="10dp"
+                    app:singleSelection="true">
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip_s"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:text="System"/>
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip_l"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:clickable="true"
+                        android:text="Light"/>
+
+                    <com.google.android.material.chip.Chip
+                        android:id="@+id/chip_d"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:text="Dark"/>
+
+                </com.google.android.material.chip.ChipGroup>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="15dp"
+                android:elevation="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Edit Profile"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"/>
+
+                    <com.alim.letscode.Class.CircleImageView
+                        android:id="@+id/pic"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:src="@drawable/person"
+                        android:scaleType="centerCrop"/>
+
+                    <Button
+                        android:id="@+id/change_pic"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="end"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="-50dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginEnd="20dp"
+                        android:textAllCaps="false"
+                        android:text="Change Image"/>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginEnd="20dp">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Name"
+                            android:text=" "
+                            android:inputType="textPersonName|textCapWords"/>
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <Button
+                        android:id="@+id/change_name"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="end"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="20dp"
+                        android:textAllCaps="false"
+                        android:text="Change Name"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="15dp"
+                android:elevation="5dp">
+
+                <TextView
+                    android:id="@+id/download"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Save videos offline"
+                    android:textColor="?attr/BlackWhite"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"/>
+
+                <Button
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:id="@+id/download_all_c"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="end"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textAllCaps="false"
+                    android:fontFamily="@font/inter_regular"
+                    android:text="Download all from C"
+                    android:layout_marginTop="50dp"
+                    android:drawableLeft="@drawable/file_download_white"/>
+
+                <Button
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:id="@+id/download_all_c_p"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="end"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textAllCaps="false"
+                    android:text="Download all from C++"
+                    android:layout_marginTop="100dp"
+                    android:drawableLeft="@drawable/file_download_white"/>
+
+                <Button
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:id="@+id/download_all_j"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="end"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textAllCaps="false"
+                    android:text="Download all from Java"
+                    android:layout_marginTop="150dp"
+                    android:drawableLeft="@drawable/file_download_white"/>
+
+                <Button
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:id="@+id/download_all_p"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="end"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textAllCaps="false"
+                    android:text="Download all from Python"
+                    android:layout_marginTop="200dp"
+                    android:drawableLeft="@drawable/file_download_white"/>
+
+                <Button
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:id="@+id/download_all_k"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="end"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textAllCaps="false"
+                    android:text="Download all from Kotlin"
+                    android:layout_marginTop="250dp"
+                    android:layout_marginBottom="10dp"
+                    android:drawableLeft="@drawable/file_download_white"/>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="15dp"
+                android:elevation="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Follow me on"
+                    android:textColor="?attr/BlackWhite"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/facebook"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_facebook"
+                        android:clickable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:padding="7dp"
+                        android:layout_margin="5dp"/>
+
+                    <ImageView
+                        android:id="@+id/instagram"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_instagram"
+                        android:clickable="true"
+                        android:layout_margin="5dp"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:padding="7dp"/>
+
+                    <ImageView
+                        android:id="@+id/twitter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:padding="7dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/ic_twitter" />
+
+                    <ImageView
+                        android:id="@+id/git_hub"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:padding="7dp"
+                        android:layout_margin="5dp"
+                        android:src="@drawable/ic_github"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginBottom="20dp"
+                android:elevation="5dp">
+
+                <com.google.android.ads.nativetemplates.TemplateView
+                    android:id="@+id/my_template"
+                    app:gnt_template_type="@layout/gnt_medium_template_view"
+                    android:layout_width="match_parent"
+                    android:visibility="gone"
+                    android:layout_height="match_parent" />
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

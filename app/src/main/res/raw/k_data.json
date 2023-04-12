@@ -1,0 +1,1930 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZJDYGbMpFpSRDByH9S8cVL3jBUk\"",
+ "pageInfo": {
+  "totalResults": 47,
+  "resultsPerPage": 47
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DlQCNNP6pEnXlJ9TSYjJSXLzEgI\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2017-05-22T15:09:47.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Welcome",
+    "description": "Introduction video for Kotlin. \nStay tuned for whole series of Kotlin Tutorials.\nKotlin has been declared as a first language of android.\nBut this doesn't mean Java is no more in picture. Kotlin has been added to the languages used in android , it has not replaced it. \nI would recommend beginners for android to start coding with kotlin because future jobs would be more  based on kotlin.\nCurrent version of Kotlin - 1.1.2/April 25, 2017\n\nComplete Series : https://goo.gl/UvHW5S\n\nOfficial website for Kotlin : kotlinlang.org\n\nPre-requisites for the course : Core Java Basics\n\nTrainer: Navin Reddy\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Org0vh-VSgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Org0vh-VSgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Org0vh-VSgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Org0vh-VSgA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Org0vh-VSgA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Org0vh-VSgA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/90SKi30jEXEF-I-StrkCTrCP75Q\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2017-05-19T14:59:40.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Introduction",
+    "description": "Clear your Java basics before enrolling for this course.\nJVM is portable platform and Kotlin works on JVM.\nKotlin is concise and can handle null pointer exception.\nIntelliJ IDEA is mostly preferred IDE for Kotlin.\nIn next video we will discuss about the installation of Kotlin to android studio.\n\nTrainer: Navin Reddy\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0isrdp5meyQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0isrdp5meyQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0isrdp5meyQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0isrdp5meyQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0isrdp5meyQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xKPHNV6HGh1UbDulcJVOLwNreow\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2017-05-19T14:59:40.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Hello World",
+    "description": "Official website of Kotlin : http://kotlinlang.org/\nYou will get a auto created hello world kotlin code once you click on try online.\nBest IDE available for Kotlin is IntelliJ IDEA.\nStay tuned for more videos.\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3C-e4dTvrSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3C-e4dTvrSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3C-e4dTvrSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3C-e4dTvrSI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3C-e4dTvrSI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mVmzxgnqpXcBTgB_X0eW3DGkyZ0\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2017-05-19T14:59:40.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "IntelliJ | Android Studio 3",
+    "description": "Kotlin is inbuilt in latest version of Android studio i.e 3.\nExtension for Kotlin file is .kt\nThe difference between java and kotlin codewise is explained in the video.\nIntelliJ website : https://www.jetbrains.com/idea/\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/glX5Yx63_Vs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/glX5Yx63_Vs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/glX5Yx63_Vs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/glX5Yx63_Vs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "glX5Yx63_Vs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cudLaKXKoWq5xDFRojX0_UyL2zU\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2017-05-19T14:59:40.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Class | Object",
+    "description": "Learn Kotlin in a very easy format with better understanding with Telusko Learning.\nThis video explains Class and object for Kotlin.\nSteos for creating object :\n1: create reference\n2: create object \nIn future videos we will discuss about th importance of using kotlin class instead of java class.\nStay tuned to Telusko Learning for more videos.\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NpveMP5869U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NpveMP5869U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NpveMP5869U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NpveMP5869U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NpveMP5869U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/D3BwYuIEw97q830q1g2TWqMaQB8\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2017-05-20T05:57:50.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Var Val",
+    "description": "In previous video we discussed about class and object in Kotlin.\nIn this video we will learn Var val.\nvar keyword is used to declare a constant.\nvar is mutable and val is immutable.\nThe above sentence is explained practically in the video.\nStay tuned for more videos.\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4YF_DUMQqFA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4YF_DUMQqFA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4YF_DUMQqFA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4YF_DUMQqFA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4YF_DUMQqFA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6FneqjlDeCzsX-LBC4S72GUlW-c\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2017-05-20T06:16:53.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Kotlin Java together",
+    "description": "This video will prove kotlin and java can be used together in the same project.\nObject of java can be created in kotlin and vice versa is also possible.\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e-gZc-mZqE8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e-gZc-mZqE8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e-gZc-mZqE8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e-gZc-mZqE8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e-gZc-mZqE8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RpG3K_5q4b37CSemuHGJLFLG2WM\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2017-05-20T06:16:53.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Convert Java Kotlin",
+    "description": "Using java in kotlin : https://www.youtube.com/edit?o=U&video_id=e-gZc-mZqE8\n\nThis video explains converting Java to Kotlin.\nJava code can be converted to kotlin code using InteliJ.\nFor more details watch the video.\nStay tuned for more videos.\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n\n\nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YuRjPUxvcek/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YuRjPUxvcek/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YuRjPUxvcek/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YuRjPUxvcek/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YuRjPUxvcek"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/relKriNXN4ZKprnU_r72OVKSbQk\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2017-05-20T06:16:53.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Decompile Bytecode",
+    "description": "Semicolons in kotlin in optional. \nAdding it will not make any difference to the code.\n\nWebsite decompiling Bytecode : http://www.javadecompilers.com/\n\nTrainer: Navin Reddy\n\nGithub :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1\n \nSubscribe to the channel and learn Programming in easy way.\n\nJava Tutorial for Beginners : https://goo.gl/p10QfB\n\nScala Tutorials for Java Developers : https://goo.gl/8H1aE5\n\nC Tutorial Playlist : https://goo.gl/8v92pu\n\nAndroid Tutorial for Beginners Playlist : https://goo.gl/MzlIUJ\n\nXML Tutorial : https://goo.gl/Eo79do\n\nDesign Patterns in Java : https://goo.gl/Kd2MWE\n\nJava Servlet : https://goo.gl/R5nHp8\n\nHibernate Tutorial :https://goo.gl/N5ONYg \n\nSpring MVC Tutorial : https://goo.gl/9ubbG2\n\nOpenShift Tutorial for Beginners : https://goo.gl/s58BQH\n\nSpring Framework with Maven : https://goo.gl/MaEluO\n\nSql Tutorial for Beginners : https://goo.gl/x3PrTg\n\nString Handling in Java : https://goo.gl/zUdPwa\n\nArray in Java : https://goo.gl/uXTaUy\n\nSocket Programming in Java : https://goo.gl/jlMEbg\n\nException Handling in Java : https://goo.gl/N4NbAW\n\nRegards,\nNavin Reddy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8TW9zbgQnKc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8TW9zbgQnKc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8TW9zbgQnKc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8TW9zbgQnKc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8TW9zbgQnKc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0q4krHw25VxAokEd0P4AZnjCE4I\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2017-05-20T10:53:15.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Operators",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q_XZWtP6KQg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q_XZWtP6KQg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q_XZWtP6KQg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q_XZWtP6KQg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q_XZWtP6KQg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/13UaGoB0PiRZXA5lEC6Dp3govlg\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41RTNBREYwMkI5QzU3RkY2",
+   "snippet": {
+    "publishedAt": "2019-05-29T10:07:21.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Support Telusko",
+    "description": "Link for Donations : \n\nInstamojo (India) : https://www.instamojo.com/@NavinReddy/\nPaypal : https://www.paypal.me/navinreddy20\n\nUPI : navinreddy20@okicici\n\nCheck out our website: http://www.telusko.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bwd9hr5Fz5E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Oiaf8sP0t_LfrUiwPlNqdkC8QYQ\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2017-05-20T10:56:53.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "String Template",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9XmGh4WgfSg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9XmGh4WgfSg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9XmGh4WgfSg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9XmGh4WgfSg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9XmGh4WgfSg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UDRbU9iRUsWWgIM1O5NYGVuHbkA\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2017-05-20T10:59:11.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "If Else Expression",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qaqKps5mNts/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qaqKps5mNts/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qaqKps5mNts/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qaqKps5mNts/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qaqKps5mNts"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7pw3kBpb6Lpy4dlD-3CvahUYflE\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2017-05-21T07:56:05.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "String Comparison",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fh4chRUL5kE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fh4chRUL5kE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fh4chRUL5kE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fh4chRUL5kE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fh4chRUL5kE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/I9hKeSzm9nPJL0vB7IY-B_uGVDk\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2017-05-20T13:10:23.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Null Handling",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AWM5cAipEp0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AWM5cAipEp0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AWM5cAipEp0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AWM5cAipEp0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AWM5cAipEp0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZJJiSmRiQy57JnIpoNMwkXYUQp4\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2017-05-21T12:03:46.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "When Expression",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TrUGG0nENMo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TrUGG0nENMo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TrUGG0nENMo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TrUGG0nENMo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TrUGG0nENMo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vNZfX1GxbKeeYwbYx7zVqZsta14\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2017-05-21T17:38:21.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Loops and Range",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bDmXJLV-HmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bDmXJLV-HmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bDmXJLV-HmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bDmXJLV-HmA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bDmXJLV-HmA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XqQopbBcNkeRP9Hr8Ua6hpPFT_A\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2017-05-21T12:11:25.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "List and Map",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FUqD6srpuPY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FUqD6srpuPY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FUqD6srpuPY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FUqD6srpuPY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FUqD6srpuPY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_UxJcSJXHjXrOqv8WGTTzvOLu_U\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2017-05-22T10:39:37.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Function Expression",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XOIC-aHyOag/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XOIC-aHyOag/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XOIC-aHyOag/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XOIC-aHyOag/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XOIC-aHyOag"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PjijJR0FD6OD5A8khlSM7vJBP1c\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2017-05-22T12:43:49.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Function calling from Java",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n0fdpvOdIbo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n0fdpvOdIbo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n0fdpvOdIbo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n0fdpvOdIbo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n0fdpvOdIbo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-P5JF57-ZrUqlNnJzAvPuvEwmKI\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2017-05-22T11:08:39.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Default and Named Parameters",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fr1K_0duf78/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fr1K_0duf78/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fr1K_0duf78/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fr1K_0duf78/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fr1K_0duf78"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RnAlMCDNmQd3NqAgun7LK6kVDkg\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2017-05-22T12:14:03.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "String to Integer",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4tlsFbNLrl8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4tlsFbNLrl8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4tlsFbNLrl8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4tlsFbNLrl8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4tlsFbNLrl8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UzWMRMaDX7zEzfcPXZ89fO3EEiI\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2017-05-22T12:18:28.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Try Expression",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RMe0v0JRuio/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RMe0v0JRuio/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RMe0v0JRuio/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RMe0v0JRuio/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RMe0v0JRuio"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/8551Gzrzrh1PP1j7xRRxQ1bpxac\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2017-05-23T11:30:18.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Extension Function",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JzaKJNt4eXk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JzaKJNt4eXk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JzaKJNt4eXk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JzaKJNt4eXk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JzaKJNt4eXk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lIJhBjWKlqgactJDw96YXNlqo4s\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2017-05-23T11:33:03.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Infix and Operator Overloading",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vqY58JbLr-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vqY58JbLr-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vqY58JbLr-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vqY58JbLr-U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vqY58JbLr-U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LahOHLkO5JEOozwruD1KoePWY8s\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2017-05-24T11:10:36.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Recursion",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d39zxt6NWNk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d39zxt6NWNk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d39zxt6NWNk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d39zxt6NWNk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d39zxt6NWNk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IflqPeR5NxgS6DvYARJYdzC9-9Y\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2017-05-24T12:47:44.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Recursion | Factorial | Part 2",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aKYKYOQYjI0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aKYKYOQYjI0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aKYKYOQYjI0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aKYKYOQYjI0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aKYKYOQYjI0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dE0P9mzQTK9MAXm2ZYHT_m2BAYc\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2017-05-24T13:38:37.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Tail Recursion | Factorial",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5rFOLyxjmOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5rFOLyxjmOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5rFOLyxjmOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5rFOLyxjmOg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5rFOLyxjmOg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9Jhmlc5Oyn5yRxXtppwiAe-Zt7c\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2017-05-24T15:16:28.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Constructor",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6RIJrnZI7jk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6RIJrnZI7jk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6RIJrnZI7jk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6RIJrnZI7jk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6RIJrnZI7jk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/dMuw_tBUoS8J0xrukAOBvj_Nx7o\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2017-05-24T15:16:19.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Secondary Constructor",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HZLr7XDW7ak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HZLr7XDW7ak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HZLr7XDW7ak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HZLr7XDW7ak/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HZLr7XDW7ak"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rZ6mah07BxnLuQeUpEsp0pg28tY\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2017-05-25T10:50:30.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Inheritance",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ssAt_qrQpi0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ssAt_qrQpi0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ssAt_qrQpi0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ssAt_qrQpi0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ssAt_qrQpi0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PQ-AMH903v7_8KRMqLq8K1Zk0m0\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2017-05-25T12:03:26.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Constructor in Inheritance",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XR3XueD8_yM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XR3XueD8_yM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XR3XueD8_yM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XR3XueD8_yM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XR3XueD8_yM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NojPdYWV18IlYyr9Ge7WdXyuZAs\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2017-05-25T12:37:38.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Abstract class",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kvpvem7BLq0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kvpvem7BLq0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kvpvem7BLq0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kvpvem7BLq0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kvpvem7BLq0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Q31luSsJZzW8IorhP0tzZi4Q4zI\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2017-05-25T12:50:24.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Interface",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jpp6yAEPB0Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jpp6yAEPB0Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jpp6yAEPB0Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jpp6yAEPB0Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jpp6yAEPB0Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YO7BqccoC_crpZ4GCLIngFvftWo\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2017-05-25T14:11:39.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Data Class",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dV5P8JVfiIc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dV5P8JVfiIc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dV5P8JVfiIc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dV5P8JVfiIc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dV5P8JVfiIc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/X4b4FkQ-uDWWpFPJGzOPRieSWAw\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2017-05-25T13:07:49.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Object Keyword",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kH4pSAFSheU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kH4pSAFSheU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kH4pSAFSheU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kH4pSAFSheU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kH4pSAFSheU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qLQY8gPk2QuwsT7Ainow3e0nX6U\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2017-06-01T11:27:33.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Anonymous inner class",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o1bty2jSHpg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o1bty2jSHpg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o1bty2jSHpg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o1bty2jSHpg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o1bty2jSHpg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AObgMmFxaY-UbPxgzG34M4GvbgE\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2017-06-01T15:30:17.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Companion Object",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Xiqfy0OpZnc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Xiqfy0OpZnc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Xiqfy0OpZnc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Xiqfy0OpZnc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Xiqfy0OpZnc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/C4n-WkuMPZNlPn14bGLInRg9mxg\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2017-06-02T06:17:36.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Companion Object | Factory Pattern",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HTGj9ZxfiSA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HTGj9ZxfiSA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HTGj9ZxfiSA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HTGj9ZxfiSA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HTGj9ZxfiSA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yIs5oA6enpJDCU8REUA8HPS7hhU\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4zQzFBN0RGNzNFREFCMjBE",
+   "snippet": {
+    "publishedAt": "2017-06-02T09:19:01.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Backtick As Escape Character",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/akiCZOVkQ_w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/akiCZOVkQ_w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/akiCZOVkQ_w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/akiCZOVkQ_w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "akiCZOVkQ_w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/L3GWJSv7WQTvygDKhT9_LxnlSWU\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2017-06-02T09:20:09.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "User Input in Kotlin",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UTEYWN64m-s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UTEYWN64m-s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UTEYWN64m-s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UTEYWN64m-s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UTEYWN64m-s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/46a48aV23ppIBlpDtkv-MSdGtWU\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DNkMwRUI2MkI4QkI4NDFG",
+   "snippet": {
+    "publishedAt": "2017-06-15T12:03:55.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Array",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mq4AbdNsFVw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mq4AbdNsFVw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mq4AbdNsFVw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Mq4AbdNsFVw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Mq4AbdNsFVw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Mq4AbdNsFVw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4aDbKXpeSvGXTuJGbGKgfqN_pug\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2017-07-05T13:02:21.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "List",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N53A_bdbBXE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N53A_bdbBXE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N53A_bdbBXE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/N53A_bdbBXE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/N53A_bdbBXE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "N53A_bdbBXE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TRRT6pNZ8868AgtCVD_Q1pWYRxY\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC41MzY4MzcwOUFFRUU3QzEx",
+   "snippet": {
+    "publishedAt": "2017-07-05T13:24:57.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "List of Objects",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dSsETZv9_8k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dSsETZv9_8k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dSsETZv9_8k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dSsETZv9_8k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dSsETZv9_8k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dSsETZv9_8k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/THd0WrJ1w6crbl9umY-ltx0Z8u0\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2017-07-05T16:16:18.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Higher Order Function",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ESm5AX1ZbSg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ESm5AX1ZbSg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ESm5AX1ZbSg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ESm5AX1ZbSg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ESm5AX1ZbSg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ESm5AX1ZbSg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/kNiahWQcTrPRHkq33pyyIlVIGiY\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC4yQUJFNUVCMzVDNjcxRTlF",
+   "snippet": {
+    "publishedAt": "2017-07-06T07:44:07.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Filter and Map",
+    "description": "Github :- https://github.com/navinreddy20/kotlin\n\nCheck out our website: http://www.telusko.com\n\nFollow Telusko on Twitter: https://twitter.com/navinreddy20\n\nFollow on Facebook: \nTelusko : https://www.facebook.com/teluskolearnings\nNavin Reddy : https://www.facebook.com/navintelusko\n\nFollow Navin Reddy on Instagram: https://www.instagram.com/navinreddy20\n\nSubscribe to our other channel:\nNavin Reddy : https://www.youtube.com/channel/UCxmkk8bMSOF-UBF43z-pdGQ?sub_confirmation=1\nTelusko Hindi :\nhttps://www.youtube.com/channel/UCitzw4ROeTVGRRLnCPws-cw?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MQTTkEsSKbI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MQTTkEsSKbI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MQTTkEsSKbI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MQTTkEsSKbI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MQTTkEsSKbI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MQTTkEsSKbI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0l-zUzf3ntQ_2SD3ky7QAyCtqMk\"",
+   "id": "UExzeWVvYnpXeGw3cm9vSkZaaGMzcVBMd1ZST292R0NmaC5ENjI1QUI0MDI5NEQzODFE",
+   "snippet": {
+    "publishedAt": "2019-05-29T10:19:22.000Z",
+    "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+    "title": "Support Telusko",
+    "description": "Link for Donations : \n\nInstamojo (India) : https://www.instamojo.com/@NavinReddy/\nPaypal : https://www.paypal.me/navinreddy20\n\nUPI : navinreddy20@okicici\n\nCheck out our website: http://www.telusko.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bwd9hr5Fz5E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Telusko",
+    "playlistId": "PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bwd9hr5Fz5E"
+    }
+   }
+  }
+ ]
+}

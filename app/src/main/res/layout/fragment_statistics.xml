@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.StatisticsFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:scaleType="centerCrop"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/ic_positive_dynamic"/>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alim Sourav"
+            android:textSize="20sp"
+            android:fontFamily="@font/inter_light"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="95dp"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="top"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Your Learning Statistics"
+            android:textSize="18sp"
+            android:fontFamily="@font/inter_bold"
+            android:textColor="#FFFFFF"
+            android:layout_marginStart="95dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="8dp"/>
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:layout_marginTop="100dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="15dp"
+                android:elevation="5dp">
+
+                <View
+                    android:layout_width="2dp"
+                    android:layout_height="150dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="30dp"
+                    android:background="?attr/BlackWhite"/>
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="C"
+                        android:layout_gravity="end"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="?attr/BlackWhite"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="C++"
+                        android:layout_gravity="end"
+                        android:textSize="16sp"
+                        android:layout_marginTop="30dp"
+                        android:textStyle="bold"
+                        android:textColor="?attr/BlackWhite"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Java"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="60dp"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="?attr/BlackWhite"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Python"
+                        android:layout_marginTop="90dp"
+                        android:layout_gravity="end"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="?attr/BlackWhite"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kotlin"
+                        android:layout_marginTop="120dp"
+                        android:layout_gravity="end"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="?attr/BlackWhite"/>
+
+                </FrameLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="85dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="30dp"
+                    android:background="?attr/BlackWhite"/>
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="85dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:textSize="15sp"
+                        android:textColor="?attr/BlackWhite"
+                        android:layout_gravity="start"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="50"
+                        android:textSize="15sp"
+                        android:textColor="?attr/BlackWhite"
+                        android:layout_gravity="center"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="100"
+                        android:textSize="15sp"
+                        android:textColor="?attr/BlackWhite"
+                        android:layout_gravity="end"/>
+
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="87dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="30dp"
+                    android:layout_marginTop="15dp"
+                    android:orientation="vertical">
+
+                    <ProgressBar
+                        android:id="@+id/c_prog"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="2dp"
+                        android:max="176"
+                        android:progressTint="@color/colorGreen"
+                        android:progressDrawable="@drawable/horizontal_progress"
+                        android:progress="0"/>
+
+                    <ProgressBar
+                        android:id="@+id/cp_prog"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="20dp"
+                        android:max="149"
+                        android:progressTint="@color/colorRed"
+                        android:progressDrawable="@drawable/horizontal_progress"
+                        android:progress="0"/>
+
+                    <ProgressBar
+                        android:id="@+id/j_prog"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="20dp"
+                        android:max="92"
+                        android:progressTint="@color/colorViolet"
+                        android:progressDrawable="@drawable/horizontal_progress"
+                        android:progress="0"/>
+
+                    <ProgressBar
+                        android:id="@+id/p_prog"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="20dp"
+                        android:max="110"
+                        android:progressTint="@color/colorBlue"
+                        android:progressDrawable="@drawable/horizontal_progress"
+                        android:progress="0"/>
+
+                    <ProgressBar
+                        android:id="@+id/k_prog"
+                        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="20dp"
+                        android:max="47"
+                        android:progressTint="@color/colorOrange"
+                        android:progressDrawable="@drawable/horizontal_progress"
+                        android:progress="0"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="20dp"
+                android:elevation="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Code with C"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Video's : 176"
+                        android:textSize="16sp"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/c_watch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watched Video's : 0"
+                        android:textSize="16sp"
+                        android:layout_marginTop="62dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/c_watch_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time Watched : loading..."
+                        android:textSize="16sp"
+                        android:layout_marginTop="84dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <FrameLayout
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="30dp"
+                        android:layout_margin="15dp">
+
+                        <ProgressBar
+                            android:id="@+id/c_round"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:indeterminate="false"
+                            android:progressTint="@color/colorGreen"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:background="@drawable/circle_shape"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:max="176"
+                            android:progress="0" />
+
+                        <TextView
+                            android:id="@+id/c_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="0%"
+                            android:textSize="28sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/colorGreen"/>
+
+                    </FrameLayout>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="20dp"
+                android:elevation="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Code with C++"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Video's : 149"
+                        android:textSize="16sp"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/cp_watch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watched Video's : 0"
+                        android:textSize="16sp"
+                        android:layout_marginTop="62dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/cp_watch_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time Watched : loading..."
+                        android:textSize="16sp"
+                        android:layout_marginTop="84dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <FrameLayout
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="30dp"
+                        android:layout_margin="15dp">
+
+                        <ProgressBar
+                            android:id="@+id/cp_round"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:indeterminate="false"
+                            android:progressTint="@color/colorRed"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:background="@drawable/circle_shape"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:max="149"
+                            android:progress="0" />
+
+                        <TextView
+                            android:id="@+id/cp_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="0%"
+                            android:textSize="28sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/colorRed"/>
+
+                    </FrameLayout>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="20dp"
+                android:elevation="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Code with Java"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Video's : 92"
+                        android:textSize="16sp"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/j_watch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watched Video's : 0"
+                        android:textSize="16sp"
+                        android:layout_marginTop="62dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/j_watch_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time Watched : loading..."
+                        android:textSize="16sp"
+                        android:layout_marginTop="84dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <FrameLayout
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="30dp"
+                        android:layout_margin="15dp">
+
+                        <ProgressBar
+                            android:id="@+id/j_round"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:indeterminate="false"
+                            android:progressTint="@color/colorViolet"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:background="@drawable/circle_shape"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:max="92"
+                            android:progress="0" />
+
+                        <TextView
+                            android:id="@+id/j_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="0%"
+                            android:textSize="28sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/colorViolet"/>
+
+                    </FrameLayout>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="20dp"
+                android:elevation="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Code with Python"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Video's : 110"
+                        android:textSize="16sp"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/p_watch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watched Video's : 0"
+                        android:textSize="16sp"
+                        android:layout_marginTop="62dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/p_watch_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time Watched : loading..."
+                        android:textSize="16sp"
+                        android:layout_marginTop="84dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <FrameLayout
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="30dp"
+                        android:layout_margin="15dp">
+
+                        <ProgressBar
+                            android:id="@+id/p_round"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:indeterminate="false"
+                            android:progressTint="@color/colorBlue"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:background="@drawable/circle_shape"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:max="110"
+                            android:progress="0" />
+
+                        <TextView
+                            android:id="@+id/p_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="0%"
+                            android:textSize="28sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/colorBlue"/>
+
+                    </FrameLayout>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="5dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:elevation="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Code with Kotlin"
+                        android:textColor="?attr/BlackWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Total Video's : 47"
+                        android:textSize="16sp"
+                        android:layout_marginTop="40dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/k_watch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watched Video's : 0"
+                        android:textSize="16sp"
+                        android:layout_marginTop="62dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <TextView
+                        android:id="@+id/k_watch_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time Watched : loading..."
+                        android:textSize="16sp"
+                        android:layout_marginTop="84dp"
+                        android:layout_marginStart="20dp"/>
+
+                    <FrameLayout
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="30dp"
+                        android:layout_margin="15dp">
+
+                        <ProgressBar
+                            android:id="@+id/k_round"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:indeterminate="false"
+                            android:progressTint="@color/colorOrange"
+                            android:progressDrawable="@drawable/circular_progress_bar"
+                            android:background="@drawable/circle_shape"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:max="47"
+                            android:progress="0" />
+
+                        <TextView
+                            android:id="@+id/k_percentage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="0%"
+                            android:textSize="28sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/colorOrange"/>
+
+                    </FrameLayout>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

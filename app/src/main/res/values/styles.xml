@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="chipStyle">@style/Chip_Style</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="BlackWhite">@color/colorBlack</item>
+        <item name="Background">@color/backgroundDay</item>
+        <item name="ColorCircleTrans">#A1F3304F</item>
+        <item name="NavBack">@color/colorWhite</item>
+        <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button.TextButton</item>
+    </style>
+
+    <style name="AppThemeDark" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorGray</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="chipStyle">@style/Chip_Style</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="BlackWhite">@color/colorWhite</item>
+        <item name="cardViewStyle">@style/Card_Style</item>
+        <item name="Background">@color/colorJustBlack</item>
+        <item name="ColorCircleTrans">#884E4E4E</item>
+        <item name="NavBack">@color/colorDarkGray</item>
+        <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button.TextButton</item>
+    </style>
+
+    <style name="Chip_Style" parent="@style/Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@color/background_chip_color</item>
+        <item name="android:textColor">@color/text_chip_color</item>
+        <item name="checkedIconVisible">true</item>
+        <item name="checkedIcon">@drawable/check_circle_white</item>
+    </style>
+
+    <style name="Card_Style" parent="CardView.Dark">
+        <item name="backgroundColor">@color/colorGray</item>
+    </style>
+
+    <style name="BottomNavigationViewTextStyle">
+        <item name="android:fontFamily">@font/asap_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">@string/ad_attribution</item>
+        <item name="android:background">#FFCC66</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+
+</resources>

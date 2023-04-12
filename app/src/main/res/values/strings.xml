@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Let\'s Code</string>
+    <string name="hello">Hello</string>
+    <string name="alim_sourav">Alim Sourav</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="_continue">Continue</string>
+    <string name="code_with_c">Code with C</string>
+    <string name="start">Start</string>
+    <string name="code_with_c_p">Code with C++</string>
+    <string name="code_with_java">Code with Java</string>
+    <string name="code_with_python">Code with Python</string>
+    <string name="code_with_kotlin">Code with Kotlin</string>
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="downloads">Downloads</string>
+    <string name="settings">Settings</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="your_downloaded_videos">Your Offline Videos</string>
+    <string name="download_alert_first">Downloading all videos from </string>
+    <string name="download_alert_last"> will take significant time and data.
+         It\'s recommended to download using an wifi or other non metered connection.\n\nNote : Previously downloaded videos will be skipped automatically.</string>
+
+    <string name="ad_attribution">Ad</string>
+    <string name="native_ad_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

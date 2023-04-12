@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="?attr/Background">
+
+    <ImageView
+        android:layout_width="1100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="450dp"
+        android:layout_marginEnd="250dp"
+        android:layout_height="1100dp"
+        android:src="@drawable/circle"/>
+
+    <ImageView
+        android:layout_width="1100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="420dp"
+        android:layout_marginStart="150dp"
+        android:layout_height="1100dp"
+        android:src="@drawable/circle_semi_transparent"/>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="55dp"/>
+
+    <com.fxn.BubbleTabBar
+        android:id="@+id/navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="?attr/NavBack"
+        android:elevation="16dp"
+        app:bubbletab_custom_font="@font/inter_regular"
+        app:bubbletab_disabled_icon_color="@color/colorPrimaryDark"
+        app:bubbletab_horizontal_padding="20dp"
+        app:bubbletab_icon_size="20dp"
+        app:bubbletab_title_size="16sp"
+        app:bubbletab_icon_padding="5sp"
+        app:bubbletab_vertical_padding="10dp"
+        android:padding="7dp"
+        app:bubbletab_menuResource="@menu/bottom_menu" />
+
+    <!--<com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:itemTextAppearanceActive="@style/BottomNavigationViewTextStyle"
+        app:itemTextAppearanceInactive="@style/BottomNavigationViewTextStyle"
+        app:labelVisibilityMode="selected"
+        app:menu="@menu/bottom_menu"/>-->
+
+</FrameLayout>

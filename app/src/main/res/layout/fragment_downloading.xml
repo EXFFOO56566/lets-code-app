@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment.DownloadingFragment">
+
+    <TextView
+        android:id="@+id/no_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No task running"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/inter_bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorWhite"/>
+
+    <LinearLayout
+        android:id="@+id/downloading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In Progress"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/colorWhite"
+            android:fontFamily="@font/inter_bold"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            app:cardCornerRadius="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:elevation="5dp">
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_margin="5dp"
+                android:src="#DADADA"/>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginBottom="10dp"
+                android:textSize="14sp"
+                android:textColor="?attr/BlackWhite"
+                android:layout_marginEnd="60dp"
+                android:layout_gravity="center_vertical"
+                android:text="This is the title of a video"/>
+
+            <ProgressBar
+                android:id="@+id/prog"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_marginStart="140dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="70dp"
+                android:progress="0"
+                android:layout_marginBottom="10dp"
+                android:progressTint="@color/colorOrange"
+                android:progressDrawable="@drawable/horizontal_progress" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In Queue"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/colorWhite"
+            android:fontFamily="@font/inter_bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycle_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>
